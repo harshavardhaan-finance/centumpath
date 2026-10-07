@@ -1,0 +1,9 @@
+{
+  "name": "Centum Path – XII Commerce",
+  "short_name": "Centum Path",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#2f5bd3",
+  "icons": [{ "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
